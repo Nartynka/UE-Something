@@ -21,3 +21,5 @@ DerivedDataCache/*
 # Assets for later use
 Content/LaterUse
 
+Content/__ExternalActors__
+Content/__ExternalObjects__
